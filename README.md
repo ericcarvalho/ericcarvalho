@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Network Support Analyst | CCNA 200-301 | Cybersecurity student (from 🇧🇷) active in the following technologies:
+
+🐚 Shell Script (bash, ssh, etc)
+🐍 Python ❤️. 
+🟡 JavaScript.
+:bookmark_tabs: Yaml
+:ferris_wheel: Ansible
+I'm also interested in DevOps culture.
+Get in touch if you guess we can help each other.
+
+You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
