@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Network Support Analyst | CCNA 200-301 | Cybersecurity student (from 🇧🇷) active in the following technologies:
+I'm a Network Support Analyst | CCNA 200-301 | Cybersecurity student (from 🇧🇷) studing the following technologies:
 
 <p>🐚 Shell Script (bash, ssh, etc)</p>
 <p>🐍 Python ❤️.</p>
@@ -23,6 +23,5 @@ I'm a Network Support Analyst | CCNA 200-301 | Cybersecurity student (from 🇧�
 <p>:bookmark_tabs: Yaml</p>
 <p>:ferris_wheel: Ansible</p>
 <p>I'm also interested in DevOps culture.</p>
-<p>Get in touch if you guess we can help each other.</p>
 
 You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
