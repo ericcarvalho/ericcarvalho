@@ -19,10 +19,10 @@ I'm a Network Support Analyst | CCNA 200-301 | Cybersecurity student (from 🇧�
 
 <p>🐚 Shell Script (bash, ssh, etc)</p>
 <p>🐍 Python ❤️.</p>
-🟡 JavaScript.
-:bookmark_tabs: Yaml
-:ferris_wheel: Ansible
-I'm also interested in DevOps culture.
-Get in touch if you guess we can help each other.
+<p>🟡 JavaScript.</p>
+<p>:bookmark_tabs: Yaml</p>
+<p>:ferris_wheel: Ansible</p>
+<p>I'm also interested in DevOps culture.</p>
+<p>Get in touch if you guess we can help each other.</p>
 
 You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
