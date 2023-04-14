@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm a Network Support Analyst | CCNA 200-301 | Cybersecurity student (from 🇧🇷) active in the following technologies:
 
-🐚 Shell Script (bash, ssh, etc)
-🐍 Python ❤️. 
+<p>🐚 Shell Script (bash, ssh, etc)</p>
+<p>🐍 Python ❤️.</p>
 🟡 JavaScript.
 :bookmark_tabs: Yaml
 :ferris_wheel: Ansible
