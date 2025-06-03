@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Network Support Analyst | CCNA 200-301 | Cybersecurity student (from 🇧🇷) studing the following technologies:
+I'm a Network Support Analyst | Cisco CCNA 200-301 | Linux - Essentials 010-160 (from 🇧🇷) studing the following technologies:
 
 AWS - DOCKER - KUBERNETES
 <p>🐚 Shell Script (bash, ssh, etc)</p>
