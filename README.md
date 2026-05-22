@@ -33,20 +33,20 @@ Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 01
 - Official certifications:  
   - 🎓 Cisco CCNA 200-301  
   - 🐧 Linux Essentials 010-160  
-- Studying and developing projects with:  
-  - 🐚 Shell Script (bash, ssh, etc)  
-  - 🐍 Python ❤️  
-  - 🟡 JavaScript  
-  - 🌐 HTML & CSS  
-  - ⚛️ React  
-  - 🟢 Node.js  
-  - 🗄️ PostgreSQL & MongoDB  
-  - 📑 YAML  
-  - 🎡 Ansible
-  - ☁️ Cloud (AWS)  
-  - 🐳 Docker & Containers   
-- Interested in **DevOps culture** and process automation.
+- Studying Full Stack development:
+- 🟡 JavaScript
+- 🌐 HTML & CSS
+- ⚛️ React
+- 🟢 Node.js
+- 🗄️ PostgreSQL & MongoDB,    
+- Interested in **DevOps culture** and process automation:
+- 🐚 Shell Script (bash, ssh, etc)
+- 🐍 Python
+- 📑 YAML
+- 🎡 Ansible
+- ☁️ Cloud (AWS)
+- 🐳 Docker & Containers
 ---
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalhovieira/)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/eric.dcvieira/)
+## 🌐 Connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalhovieira/) [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/eric.dcvieira/)
+
+[![Eric Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=ericcarvalho)](https://github.com/ericcaravlho/github-readme-stats)
