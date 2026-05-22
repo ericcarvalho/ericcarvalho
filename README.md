@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Network Support Analyst | Cisco CCNA 200-301 | Linux - Essentials 010-160 (from 🇧🇷) studing the following technologies:
+<!--I'm a Network Support Analyst | Cisco CCNA 200-301 | Linux - Essentials 010-160 (from 🇧🇷) studing the following technologies:
 <p>🐚 Shell Script (bash, ssh, etc)</p>
 <p>🐍 Python ❤️.</p>
 <p>🟡 JavaScript.</p>
@@ -24,3 +24,33 @@ I'm a Network Support Analyst | Cisco CCNA 200-301 | Linux - Essentials 010-160 
 <p>I'm also interested in DevOps culture.</p>
 
 You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
+-->
+# Hi there 👋
+
+I'm **Eric Carvalho Vieira**  
+Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 010-160 (🇧🇷)
+
+---
+
+## 🚀 About Me
+- Trabalho como **NOC Telecom**, com foco em suporte e monitoramento de redes.  
+- Certificações oficiais:  
+  - 🎓 Cisco CCNA 200-301  
+  - 🐧 Linux Essentials 010-160  
+- Estudando e desenvolvendo projetos com:  
+  - 🐚 Shell Script (bash, ssh, etc)  
+  - 🐍 Python ❤️  
+  - 🟡 JavaScript  
+  - 🌐 HTML & CSS  
+  - ⚛️ React  
+  - 🟢 Node.js  
+  - 🗄️ PostgreSQL & MongoDB  
+  - 📑 YAML  
+  - 🎡 Ansible  
+- Interessado em cultura **DevOps** e automação de processos.
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalhovieira/)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/eric.dcvieira/)
