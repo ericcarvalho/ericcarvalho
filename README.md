@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
 -->
-I'm **Eric Carvalho Vieira**  
+I'm **Eric Carvalho**  
 Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 010-160 (🇧🇷)
 
 ---
