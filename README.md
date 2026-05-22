@@ -27,15 +27,13 @@ You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
 -->
 I'm **Eric Carvalho**  
 Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 010-160 (🇧🇷)
-
 ---
-
 ## 🚀 About Me
-- Trabalho como **NOC Telecom**, com foco em suporte e monitoramento de redes.  
-- Certificações oficiais:  
+- Working as **NOC Telecom**, focused on network support and monitoring.  
+- Official certifications:  
   - 🎓 Cisco CCNA 200-301  
   - 🐧 Linux Essentials 010-160  
-- Estudando e desenvolvendo projetos com:  
+- Studying and developing projects with:  
   - 🐚 Shell Script (bash, ssh, etc)  
   - 🐍 Python ❤️  
   - 🟡 JavaScript  
@@ -45,10 +43,8 @@ Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 01
   - 🗄️ PostgreSQL & MongoDB  
   - 📑 YAML  
   - 🎡 Ansible  
-- Interessado em cultura **DevOps** e automação de processos.
-
+- Interested in **DevOps culture** and process automation.
 ---
-
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalhovieira/)  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/eric.dcvieira/)
