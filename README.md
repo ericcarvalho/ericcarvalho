@@ -42,7 +42,9 @@ Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 01
   - 🟢 Node.js  
   - 🗄️ PostgreSQL & MongoDB  
   - 📑 YAML  
-  - 🎡 Ansible  
+  - 🎡 Ansible
+  - ☁️ Cloud (AWS)  
+  - 🐳 Docker & Containers   
 - Interested in **DevOps culture** and process automation.
 ---
 ## 🌐 Connect with me
