@@ -29,7 +29,7 @@ I'm **Eric Carvalho**
 Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 010-160 (🇧🇷)
 ---
 ## 🚀 About Me
-- Working as **NOC Telecom**, focused on network support and monitoring.  
+- Working as **NOC Telecom**, focused on network telecom support and monitoring.  
 - Official certifications:  
   - 🎓 Cisco CCNA 200-301  
   - 🐧 Linux Essentials 010-160  
