@@ -49,7 +49,10 @@ Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 01
 ---
 ## 🌐 Connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalhovieira/) [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/eric.dcvieira/)
 
-[![Eric Carvalho GitHub stats](https://github-readme-stats-giwh3rzqt-ericcarvalhos-projects.vercel.app/api?username=ericcarvalho&show_icons=true&theme=radical)](https://github.com/ericcarvalho/github-readme-stats)
+![Eric's GitHub stats](https://github-readme-stats-github-action-example.vercel.app/api?username=ericcarvalho&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-github-action-example.vercel.app/api/top-langs/?username=ericcarvalho&layout=compact&theme=radical)
+
 
 
 
