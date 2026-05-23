@@ -2,8 +2,8 @@ name: Generate README Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Atualiza a cada 12h
-  workflow_dispatch:         # Permite rodar manualmente
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,11 +12,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      - name: Ensure profile folder exists
+        run: mkdir -p profile
+
       - name: Generate Stats
         uses: anuraghazra/github-readme-stats@master
         with:
           token: ${{ secrets.PAT_1 }}
-          output_dir: ./profile   # salva os SVGs na pasta profile/
+          output_dir: ./profile
 
       - name: Commit & Push
         run: |
