@@ -2,8 +2,8 @@ name: Generate README Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # Atualiza a cada 12h
+  workflow_dispatch:         # Permite rodar manualmente
 
 jobs:
   build:
@@ -16,10 +16,9 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          token: ${{ secrets.PAT_1 }}
-          output_dir: ./profile
+          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
 
       - name: Commit & Push
         run: |
