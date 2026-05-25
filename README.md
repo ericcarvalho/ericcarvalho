@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
 -->
 I'm **Eric Carvalho**  
-Network Support Analyst | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 010-160 (🇧🇷)
+Desenvolvedor Full-Stack | HTML | CSS | JS | N8N | NOC Telecom | Cisco CCNA 200-301 | Linux Essentials 010-160 (🇧🇷) | 
 ---
 ## 🚀 About Me
 - Working as **NOC Telecom**, focused on network telecom support and monitoring.  
