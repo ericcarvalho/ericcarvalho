@@ -29,8 +29,7 @@ I'm **Eric Carvalho**
 Full-Stack developer | HTML | CSS | JS
 ---
 ## 🚀 About Me
-- Working as **NOC Telecom**, focused on network telecom support and monitoring, interested in **DevOps culture** and process automation. 
-- Working on Full Stack development:
+- Working as Full Stack development:, interested in **DevOps culture** and process automation: 
 - 🟡 JavaScript
 - 🌐 HTML & CSS
 - ⚛️ React
