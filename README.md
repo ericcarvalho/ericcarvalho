@@ -26,25 +26,16 @@ Here are some ideas to get you started:
 You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
 -->
 I'm **Eric Carvalho**  
-Full-Stack developer | HTML | CSS | JS | Cisco CCNA 200-301 | Linux Essentials 010-160 (🇧🇷) | 
+Full-Stack developer | HTML | CSS | JS
 ---
 ## 🚀 About Me
-- Working as **NOC Telecom**, focused on network telecom support and monitoring.  
-- Official certifications:  
-  - 🎓 Cisco CCNA 200-301  
-  - 🐧 Linux Essentials 010-160  
-- Studying Full Stack development:
+- Working as **NOC Telecom**, focused on network telecom support and monitoring, interested in **DevOps culture** and process automation. 
+- Working on Full Stack development:
 - 🟡 JavaScript
 - 🌐 HTML & CSS
 - ⚛️ React
 - 🟢 Node.js
 - 🗄️ PostgreSQL & MongoDB,    
-- Interested in **DevOps culture** and process automation:
-- 🐚 Shell Script (bash, ssh, etc)
-- 🐍 Python
-- 📑 YAML
-- 🎡 Ansible
-- ☁️ Cloud (AWS)
-- 🐳 Docker & Containers
+
 ---
 ## 🌐 Connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalhovieira/) [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/eric.dcvieira/)
