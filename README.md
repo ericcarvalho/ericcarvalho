@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 You can reach me through https://www.linkedin.com/in/ericcarvalhovieira/
 -->
 I'm **Eric Carvalho**  
-Full-Stack developer | HTML | CSS | JS
+Full-Stack developer
 ---
 ## 🚀 About Me
 - Working as Full Stack development:, interested in **DevOps culture** and process automation: 
