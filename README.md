@@ -3,12 +3,12 @@ I'm **Eric Carvalho**
 Network Telecom Analyst | Full-Stack developer
 ---
 ## 🚀 About Me
-- Working as Full Stack development:, interested in **DevOps culture** and process automation: 
+- Working as Network Telecom Analyst | Full-Stack developer, interested in **DevOps culture** and process automation: 
 - 🟡 JavaScript
 - 🌐 HTML & CSS
 - ⚛️ React
 - 🟢 Node.js
-- 🗄️ PostgreSQL & MongoDB,    
+- 🗄️ PostgreSQL, MySQL & MongoDB    
 
 ---
 ## 🌐 Connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalhovieira/) [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/eric.dcvieira/)
